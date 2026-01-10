@@ -21,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/.idea" />
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -237,7 +237,7 @@
       <workItem from="1767919799694" duration="8104000" />
       <workItem from="1767927972616" duration="1872000" />
       <workItem from="1768009379170" duration="5427000" />
-      <workItem from="1768026330206" duration="134000" />
+      <workItem from="1768026330206" duration="1118000" />
     </task>
     <servers />
   </component>
@@ -257,7 +257,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/C__$exam.coverage" NAME="exam实战 覆盖结果" MODIFIED="1768026237701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pycharm/解释器" />
-    <SUITE FILE_PATH="coverage/C__$git.coverage" NAME="git 覆盖结果" MODIFIED="1768025575580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/.idea" />
+    <SUITE FILE_PATH="coverage/C__$git.coverage" NAME="git 覆盖结果" MODIFIED="1768026534619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/.idea" />
     <SUITE FILE_PATH="coverage/C__$1.coverage" NAME="1 覆盖结果" MODIFIED="1767925586977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pycharm/解释器" />
     <SUITE FILE_PATH="coverage/C__$exam__1_.coverage" NAME="exam实战 (1) 覆盖结果" MODIFIED="1768025177430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/机器学习" />
     <SUITE FILE_PATH="coverage/C__$.coverage" NAME="芯片检测实战 覆盖结果" MODIFIED="1768023853254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/.idea" />
