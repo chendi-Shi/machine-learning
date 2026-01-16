@@ -30,9 +30,10 @@ accuracy_test=model.evaluate(test_set)
 print(accuracy_test)
 #load single image
 from tensorflow.kerapreprocessing.image import load_img,img_to_array
-pic_cat='cat.4196.jpg'
+pic_cat=r'C:\Users\师晨迪\Documents\机器学习\机器学习\archive\cat.4196.jpg'
 pic_cat=load_img(pic_cat,target_size=(50,50))
 pic_cat=img_to_array(pic_cat)
 pic_cat=pic_cat/255.0
 pic_cat=pic_cat.reshape(1,50,50,3)
 result=model.predict(pic_cat)
+print(result)
